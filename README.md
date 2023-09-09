@@ -1,11 +1,17 @@
 PROJET RUNNER (Note : 20/20) - 2023 Hetic  
 Projet effectué avec :  
-  ◦ Valentin Machefaux  
+  ◦ Valentin Machefaux 
+  https://github.com/ValentinMachefaux
   ◦ Chrisline Lin  
-  ◦ Lorys Lejeune  
+  https://github.com/LinelinLove
+  ◦ Lorys Lejeune
+  https://github.com/MrStagiaire
   ◦ Rosine Yang  
+  https://github.com/Myakii
   ◦ Sira Kalloga  
-  ◦ Thari Mahalinham   
+    https://github.com/Sira
+  ◦ Thari Mahalinham  
+  https://github.com/ImThari
 
 → Contexte
 
