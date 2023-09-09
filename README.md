@@ -9,7 +9,7 @@ Projet effectué avec :
   ◦ Rosine Yang  <br>
   https://github.com/Myakii<br>
   ◦ Sira Kalloga  <br>
-    https://github.com/Sira<br>
+    https://github.com/siraKLG<br>
   ◦ Thari Mahalinham  <br>
   https://github.com/ImThari<br>
 
